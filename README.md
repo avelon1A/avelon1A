@@ -35,6 +35,6 @@ Check out more on my [GitHub repositories](https://github.com/amanavelon1A).
 
 ---
 
-💡 "Every day is an opportunity to improve. Let's innovate together!" 🚀  
+💡 "Every day is an opportunity to improve. Let's innovate together!!" 🚀  
 
 
