@@ -17,7 +17,7 @@
 
 | ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avelon1A&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avelon1A&layout=compact&theme=default) |
 |:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avelon1A&theme=default)                 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="100"/>         |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avelon1A&theme=defau1lt)                 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="100"/>         |
  |                                                                                                   |
 
 
