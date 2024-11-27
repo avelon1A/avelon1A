@@ -10,7 +10,7 @@
 - 🛠 **Tech Stack:**  
   - **Android:** Kotlin, Java, Jetpack Compose, Hilt, Room, Retrofit  
   - **Tools:** Git, Firebase, Jenkins ,Android studio,PostMan,Docker
-  - **Other:** Python (for ML), SQL  
+  - **Other:** Python (for ML), SQL  Docker
 
 ---
 ## 📊 GitHub Stats  
