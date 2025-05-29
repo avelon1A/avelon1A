@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Toppo  
 
-🎯 **Passionate Android Developer | Lifelong Learner**  
+🎯 **Passionate Android Developer| java developer | Lifelong Learner**  
 
 ---
 
