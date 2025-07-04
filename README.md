@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aman Toppo  
 
-🎯 **Passionate Android Developer| java developer | Lifelong Learner**  
+🎯 **Passionate Android Developer| **  
 
 ---
 
 ## 👀 About Me
-- 💼 **Currently working at:** Advanced Millennium Technology as a **Native Android Developer**.  
+- 💼 **Currently working at:** Advanced Millennium Technology **.  
 - 🌱 **Learning:** Machine Learning to enhance mobile app capabilities with AI integration.  
 - 🛠 **Tech Stack:**  
   - **Android:** Kotlin, Java, Jetpack Compose, Hilt, Room, Retrofit  
