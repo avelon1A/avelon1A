@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Toppo  
 
-🎯 **Passionate Android Developer| **  
+🎯 **Passionate Android Developer**  
 
 ---
 
