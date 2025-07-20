@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Toppo  
+# 👋  I'm Aman Toppo  
 
 🎯 **Passionate Android Developer**  
 
