@@ -5,7 +5,7 @@
 ---
 
 ## 👀 About Me
-- 💼 **Currently working at:** Advanced Millennium Technology **.  
+- 💼 **Currently working at:** Bebetta **.  
 - 🌱 **Learning:** Machine Learning to enhance mobile app capabilities with AI integration.  
 - 🛠 **Tech Stack:**  
   - **Android:** Kotlin, Java, Jetpack Compose, Hilt, Room, Retrofit  
